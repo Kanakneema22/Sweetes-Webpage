@@ -5,11 +5,6 @@ Built with **HTML** and **CSS** to practice basic web development concepts.
 
 ---
 
-## 🚀 Live Demo
-[Click Here](#) (Add your Vercel/Netlify link if deployed)
-
----
-
 ## ✨ Features
 - Clean and modern UI  
 - Fully responsive design  
